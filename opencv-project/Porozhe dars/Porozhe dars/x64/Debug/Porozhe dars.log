@@ -1,0 +1,7 @@
+﻿  porozhe dars.cpp
+c:\users\majid\desktop\c++\opencv3.1\projects\porozhe dars\porozhe dars\porozhe dars.cpp(131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\majid\desktop\c++\opencv3.1\projects\porozhe dars\porozhe dars\porozhe dars.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\majid\desktop\c++\opencv3.1\projects\porozhe dars\porozhe dars\porozhe dars.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\majid\desktop\c++\opencv3.1\projects\porozhe dars\porozhe dars\porozhe dars.cpp(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Porozhe dars.vcxproj -> C:\Users\majid\Desktop\c++\Opencv3.1\Projects\Porozhe dars\x64\Debug\Porozhe dars.exe
+  Porozhe dars.vcxproj -> C:\Users\majid\Desktop\c++\Opencv3.1\Projects\Porozhe dars\x64\Debug\Porozhe dars.pdb (Partial PDB)

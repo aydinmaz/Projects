@@ -1,0 +1,12 @@
+﻿  porozhe dars.cpp
+porozhe dars.cpp(131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+porozhe dars.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+porozhe dars.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+porozhe dars.cpp(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  20 of 326 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Porozhe dars.vcxproj -> C:\Users\majid\Desktop\c++\Opencv3.1\Projects\Porozhe dars\x64\Release\Porozhe dars.exe
+  Porozhe dars.vcxproj -> C:\Users\majid\Desktop\c++\Opencv3.1\Projects\Porozhe dars\x64\Release\Porozhe dars.pdb (Full PDB)

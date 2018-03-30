@@ -1,0 +1,1 @@
+In this picture,after applying some appropriate filters ,we find dimension of Rodes and divide them in 2 types :with 1 hole and 2 hole 
